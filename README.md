@@ -16,6 +16,45 @@ A user-friendly application that provides real-time stock data, investment sugge
 ## **Technologies Used**  
 - **Libraries**: yfinance, Matplotlib, Tkinter.  
 
+## 🚀 Features
+
+✅ Real-time stock info (current price, 52-week high & low)  
+✅ 6-month trend graph for any stock  
+✅ Smart investment recommendations  
+✅ Minimalist Tkinter GUI  
+✅ Lightweight and fast
+
+---
+
+## 🖼️ Live Demo
+
+### 🔹 AMZN Stock Analysis  
+<img src="assets/amzn_graph.png" alt="AMZN Graph" width="700"/>
+
+---
+
+### 🔹 NVDA Stock Analysis  
+<img src="assets/nvda_graph.png" alt="NVDA Graph" width="700"/>
+
+---
+
+## 🛠️ Built With
+
+- **Python 3.x**
+- [yfinance](https://pypi.org/project/yfinance/)
+- [Matplotlib](https://matplotlib.org/)
+- Tkinter (Standard Python GUI)
+
+---
+
+## ⚙️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shiv-61/Stock_analysis.git
+   cd Stock_analysis
+
+
 ## **Setup**  
 1. Clone the repository:  
    ```bash  
