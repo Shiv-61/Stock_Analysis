@@ -16,17 +16,17 @@ A user-friendly application that provides real-time stock data, investment sugge
 ## **Technologies Used**  
 - **Libraries**: yfinance, Matplotlib, Tkinter.  
 
-## 🚀 Features
+## Features
 
-✅ Real-time stock info (current price, 52-week high & low)  
-✅ 6-month trend graph for any stock  
-✅ Smart investment recommendations  
-✅ Minimalist Tkinter GUI  
-✅ Lightweight and fast
+- Real-time stock info (current price, 52-week high & low)  
+- 6-month trend graph for any stock  
+- Smart investment recommendations  
+- Minimalist Tkinter GUI  
+- Lightweight and fast
 
 ---
 
-## 🖼️ Live Demo
+## Live Demo
 
 ### 🔹 AMZN Stock Analysis  
 <img src="assets/amzn_graph.png" alt="AMZN Graph" width="700"/>
